@@ -19,8 +19,8 @@ Nesta pasta, você encontrará exemplos práticos para várias funções de inte
 2. **Imprima a soma dos números pares da lista:**
    Realize a soma dos números pares da lista utilizando a Stream API e exiba o resultado no console.
 
-3. **Verifique se todos os números da lista são positivos:**Nesta pasta, você encontrará exemplos práticos para várias funções de interface Java, incluindo BinaryOperator, Consumer, Function, Predicate e Supplier. As funções de interface são uma parte fundamental do paradigma de programação funcionaNesta pasta, você encontrará exemplos práticos para várias funções de interface Java, incluindo BinaryOperator, Consumer, Function, Predicate e Supplier. As funções de interface são uma parte fundamental do paradigma de programação funcional em Java e são amplamente utilizadas em conjunto com a Stream API e expressões lambda para manipular coleções de dados de forma eficaz e concisa.l em Java e são amplamente utilizadas em conjunto com a Stream API e expressões lambda para manipular coleções de dados de forma eficaz e concisa.
-   Utilizando a Stream API, verifique se todos os números da lista são positivos e exiba o resultado no console.
+3. **Verifique se todos os números da lista são positivos:**
+   Com a ajuda da Stream API, verifique se todos os números da lista são positivos e exiba o resultado no console.
 
 4. **Remova todos os valores ímpares:**
    Utilize a Stream API para remover os valores ímpares da lista e imprima a lista resultante no console.
